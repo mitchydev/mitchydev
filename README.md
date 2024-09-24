@@ -4,7 +4,7 @@
 - [LinkedIn](https://www.linkedin.com/in/mitchpaiva/)
 
 **About Me**
--  📚 I a student at Grinnell College studying Computer Science and Economics with a concentration in Film & Media Studies.
+-  📚 I am student at Grinnell College studying Computer Science and Economics with a concentration in Film & Media Studies.
 -  📍 Tulsa, Oklahoma is where I call home.
 -  🤿 When I am not studying or hanging out with friends, I am probably swimming.
 -  🎢 I love all things rollercoasters, from the steel that constructs them to the code that allows them to run safely.
