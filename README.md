@@ -3,7 +3,7 @@
 ---
 
 **Let's Connect!**
-- [LinkedIn:](https://www.linkedin.com/in/mitchpaiva/)
+- [LinkedIn](https://www.linkedin.com/in/mitchpaiva/)
 
 **About Me**
 - 📚 I am studying at Grinnell College studying Computer Science and Economics with a concentration in Film & Media Studies.
