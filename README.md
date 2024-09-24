@@ -11,8 +11,9 @@
 - 🎢 I love all things rollercoasters, from the steel that constructs them to the code that allows them to run safely.
 
 **Current Languages**
-The list is growing month by month!
-- C, C++
+(This list is growing month by month!)
+- C
+- C++
 - Racket
 - Python
 - Java
